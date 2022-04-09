@@ -36,9 +36,7 @@ Configurado com Sql Server.
     * **@Table** informar _carcterísticas_ e _nomear_ tabela
       
     * **@Id** identifica chave primária
-    * 
-      **@GeneratedValue** informa como que será identificada e  alimentada a chave primária
+    * **@GeneratedValue** informa como que será identificada e  alimentada a chave primária
       
     * **@Column** informa nome e propriedades da coluna
-
     
