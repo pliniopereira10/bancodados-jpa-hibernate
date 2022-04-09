@@ -18,13 +18,13 @@ Configurado com Sql Server.
     Pasta e arquivo com as **configurações para conexão** com Banco de Dados.
     
     **Aqui temos:**
-       * url de conexão
-       * usuário
-       * password
-       * driver de conexão
-       * dialeto de comunicação
-       * propriedade para criação do banco
-       * propriedades para exibição das querys
+    - url de conexão
+    - usuário
+    - password
+    - driver de conexão
+    - dialeto de comunicação
+    - propriedade para criação do banco
+    - propriedades para exibição das querys
 
 3. [Criação do pacote entidade e a classe para mapeamento da tabela](https://github.com/pliniopereira10/bancodados-jpa-hibernate/blob/main/src/main/java/entidades/Cliente.java)
 
