@@ -39,4 +39,7 @@ Configurado com Sql Server.
     * **@GeneratedValue** informa como que será identificada e  alimentada a chave primária
       
     * **@Column** informa nome e propriedades da coluna
-    
+
+4. [Criação do pacote aplicação e a classe para criação da conexão e manipulação da tabela](https://github.com/pliniopereira10/bancodados-jpa-hibernate/blob/main/src/main/java/aplicacao/AberturaCadastro.java)
+    - Clase **EntityManagerFactory** :arrow_right:  conexão
+    - Classe **EntityManager** :arrow_right: manipulação
